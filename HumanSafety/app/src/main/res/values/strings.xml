@@ -1,0 +1,1936 @@
+<resources>
+    <string name="app_name">HumanSafety</string>
+    <string name="logoString_name">Human Safety</string>
+
+    <string name="radio_male">Male</string>
+    <string name="radio_female">Female</string>
+    <string name="radio_other">Other</string>
+    <string name="don_t_have_a_account">Don\'t have a account.</string>
+    <string name="don_account">Don\'t have a account.please SignUp Here.</string>
+    <string name="login">login</string>
+    <string name="signup_now">Signup now</string>
+    <string name="forget_password">FORGET PASSWORD</string>
+
+    <string name="about_text">
+        <b>Md. Salahuddin</b>\n
+        <i>Department of CSE</i>\n
+        <i>Daffodil International University</i>\n
+        <i>salah15-4670@diu.edu.bd</i>\n\n\n
+
+        <b>Md. Ahsan Habib</b>\n
+        <i>Department of CSE</i>\n
+        <i>Daffodil International University</i>\n
+        <i>ahsan15-5355@diu.edu.bd</i>
+
+    </string>
+
+    <string name="help_text">
+        1. At first you have to registration into our app for login.\n\n
+        2. During registration you have to must provide your guardian information.\n\n
+        3. Guardian phone number must be a valid and running phone number.\n\n
+        4. press power button in emmergency moment for getting help.\n\n
+        5. To get help always enable your switch button.\n\n
+        6. It will keep running your app in background.\n\n
+        7. Stay with us.Give feedback and share app.
+    </string>
+
+    <string name="DhakaThanaContract">
+
+        <b>Adabar\n</b>
+        <i>Phone: 02- 9133265, 02- 9120288\n\n</i>
+
+        <b>Badda\n</b>
+        <i>Phone: 02-9882652\n\n</i>
+
+        <b>Bangshal\n</b>
+        <i>Phone: Phone: 02-9565700\n\n</i>
+
+        <b>Biman Bandar\n</b>
+        <i>Phone: Phone: 028951281\n\n</i>
+
+        <b>Cantonment\n</b>
+        <i>Phone: Phone: 02-8712350\n\n</i>
+
+        <b>Chawk Bazar\n</b>
+        <i>Phone: Phone: 02-7313966\n\n</i>
+
+        <b>Dhakkhin khan\n</b>
+        <i>Phone: Phone: 02-8931777\n\n</i>
+
+        <b>Dar Us Salam\n</b>
+        <i>Phone: Phone: 02-8032333\n\n</i>
+
+        <b>Demra\n</b>
+        <i>Phone: Phone: 02-7501155\n\n</i>
+
+        <b>Dhanmondi\n</b>
+        <i>Phone: Phone: 02-8631941\n\n</i>
+
+        <b>Gandaria\n</b>
+        <i>Phone: Phone: 02-7453294\n\n</i>
+
+        <b>Gulsan\n</b>
+        <i>Phone: Phone: 02-9895826\n\n</i>
+
+        <b>Hazaribag\n</b>
+        <i>Phone: Phone: 02-9669900\n\n</i>
+
+        <b>Jatrabari\n</b>
+        <i>Phone: Phone: 02-7546244\n\n</i>
+
+        <b>Kafrul</b>
+        <i>Phone: Phone: 02-9001061\n\n</i>
+
+        <b>Kalabagan\n</b>
+        <i>Phone: Phone: 02-9665254\n\n</i>
+
+        <b>Kamrangi chor\n</b>
+        <i>Phone: Phone: 02-7320323\n\n</i>
+
+        <b>Khilgoan\n</b>
+        <i>Phone: Phone: 02-7219090\n\n</i>
+
+        <b>Khilkhet\n</b>
+        <i>Phone: Phone: 02-8911786\n\n</i>
+
+        <b>Katamtoli\n</b>
+        <i>Phone: Phone: 02-7547755\n\n</i>
+
+        <b>Kotwali – Dhaka\n</b>
+        <i>Phone: Phone: 02-7116255\n\n</i>
+
+        <b>Lalbag\n</b>
+        <i>Phone: Phone: 02-9660105\n\n</i>
+
+        <b>Mirpur Model\n</b>
+        <i>Phone: Phone: 02-9001000-1\n\n</i>
+
+        <b>Mohammadpur\n</b>
+        <i>Phone: Phone: 02-9119943\n\n</i>
+
+        <b>Motijheel\n</b>
+        <i>Phone: Phone: 02-9571000\n\n</i>
+
+        <b>Mugda\n</b>
+        <i>Phone: Phone: 02-7549722\n\n</i>
+
+        <b>New Market\n</b>
+        <i>Phone: Phone: 02-8631942\n\n</i>
+
+        <b>Pallabi\n</b>
+        <i>Phone: Phone: 02-9015922\n\n</i>
+
+        <b>Paltan\n</b>
+        <i>Phone: Phone: 02-9360802\n\n</i>
+
+        <b>Ramna\n</b>
+        <i>Phone: Phone: 02-9350468\n\n</i>
+
+        <b>Rampura\n</b>
+        <i>Phone: Phone: 02-7290999\n\n</i>
+
+        <b>Rupnagar\n</b>
+        <i>Phone: Phone: 02-9002177\n\n</i>
+
+        <b>Sabuzbag\n</b>
+        <i>Phone: Phone: 02-7219988\n\n</i>
+
+        <b>Shah Ali\n</b>
+        <i>Phone: Phone: 02-9002777\n\n</i>
+
+        <b>Shahbag\n</b>
+        <i>Phone: Phone: 02-9676699\n\n</i>
+
+        <b>Shajahanpur\n</b>
+        <i>Phone: Phone: 02-9360535\n\n</i>
+
+        <b>Sutrapur\n</b>
+        <i>Phone: Phone: 02-7116233\n\n</i>
+
+        <b>Shyampur\n</b>
+        <i>Phone: Phone: 02-7440691\n\n</i>
+
+        <b>Sher E Bangla Nagar\n</b>
+        <i>Phone: Phone: 02-9124154\n\n</i>
+
+        <b>Tejgoan Industrial\n</b>
+        <i>Phone: Phone: 02-9119444,9119467\n\n</i>
+
+        <b>Tejgoan\n</b>
+        <i>Phone: Phone: 02-8981247\n\n</i>
+
+        <b>Uttara (EAST)\n</b>
+        <i>Phone: Phone: 02-8914126\n\n</i>
+
+        <b>Uttara (WEAST)\n</b>
+        <i>Phone: Phone: 02-8991315\n\n</i>
+
+        <b>Uttarkhan\n</b>
+        <i>Phone: Phone: 02-8931888\n\n</i>
+
+        <b>Vasantek\n</b>
+        <i>Phone: Phone: 02-8713023\n\n</i>
+
+        <b>Vatara\n</b>
+        <i>Phone: Phone: 02-9897438\n\n</i>
+
+        <b>Wari\n</b>
+        <i>Phone: Phone: 02-9553377\n\n</i>
+
+        <b><u>More Information:\n</u></b>
+        <b>Police Headquarters\n</b>
+        <i>Phone: +88-02-9564779</i>
+
+    </string>
+
+    <string name="MadaripurThanaContract">
+        <b>Madaripur\n</b>
+        <i>Phone: 01713-373585\n\n</i>
+
+        <b>Rajoi\n</b>
+        <i>Phone: 01713-373586\n\n</i>
+
+        <b>Kalkini\n</b>
+        <i>Phone: 01713-373587\n\n</i>
+
+        <b>Sibchore\n</b>
+        <i>Phone: 01713-373588\n\n</i>
+
+    </string>
+
+    <string name="FaridpurThanaContract">
+
+        <b>Alfadanga\n</b>
+        <i>Phone: 01713-373559\n\n</i>
+
+        <b>Bhanga\n</b>
+        <i>Phone: 01713-373564\n\n</i>
+
+        <b>Boalmari\n</b>
+        <i>Phone: 01713-373558\n\n</i>
+
+        <b>Charbhadrasan\n</b>
+        <i>Phone: 01713-373560\n\n</i>
+
+        <b>Faridpur Sadar\n</b>
+        <i>Phone: 01713-373556\n\n</i>
+
+        <b>Madhukhali\n</b>
+        <i>Phone: 01713-373557\n\n</i>
+
+        <b>Nagar Kanda\n</b>
+        <i>Phone: 01713-373561\n\n</i>
+
+        <b>Sadarpur\n</b>
+        <i>Phone: 01713-373562\n\n</i>
+
+        <b>Saltha\n</b>
+        <i>Phone: 01713-373563\n\n</i>
+
+    </string>
+
+    <string name="GazipurThanaContract">
+
+        <b>Joydebpur\n</b>
+        <i>Phone: 01713-373363\n\n</i>
+
+        <b>Tongi\n</b>
+        <i>Phone: 01713-373364\n\n</i>
+
+        <b>Kaliakoria\n</b>
+        <i>Phone: 01713-373365\n\n</i>
+
+        <b>Sripur\n</b>
+        <i>Phone: 01713-373366\n\n</i>
+
+        <b>Kapasia\n</b>
+        <i>Phone: 01713-373367\n\n</i>
+
+        <b>Kaligoanj\n</b>
+        <i>Phone: 01713-373368\n\n</i>
+
+    </string>
+
+    <string name="GopalgoanjThanaContract">
+
+        <b>Gopalgong\n</b>
+        <i>Phone: 01713-373572\n\n</i>
+
+        <b>Maksudpur\n</b>
+        <i>Phone: 01713-373573\n\n</i>
+
+        <b>Kashiani\n</b>
+        <i>Phone: 01713-373574\n\n</i>
+
+        <b>Kotalipara\n</b>
+        <i>Phone: 01713-373575\n\n</i>
+
+        <b>Tungipara\n</b>
+        <i>Phone: 01713-373576\n\n</i>
+
+    </string>
+
+    <string name="JamalpurThanaContract">
+
+        <b>Jamalpur\n</b>
+        <i>Phone: 01713-373538\n\n</i>
+
+        <b>Melandoho\n</b>
+        <i>Phone: 01713-373539\n\n</i>
+
+        <b>Sorishabari\n</b>
+        <i>Phone: 01713-373540\n\n</i>
+
+        <b>Deoangong\n</b>
+        <i>Phone: 01713-373541\n\n</i>
+
+        <b>Islampur\n</b>
+        <i>Phone: 01713-373542\n\n</i>
+
+        <b>Mothergong\n</b>
+        <i>Phone: 01713-373543\n\n</i>
+
+        <b>Bakshigonj\n</b>
+        <i>Phone: 01713-373544\n\n</i> \
+
+        <b>Bahadurabad\n</b>
+        <i>Phone: 01713-373545\n\n</i>
+
+    </string>
+
+    <string name="KishoregonjThanaContract">
+
+        <b>Kishoreganj\n</b>
+        <i>Phone: 01713-373480\n\n</i>
+
+        <b>Karimganj\n</b>
+        <i>Phone: 01713-373481\n\n</i>
+
+        <b>Tarail\n</b>
+        <i>Phone: 01713-373482\n\n</i>
+
+        <b>Hossainpur\n</b>
+        <i>Phone: 01713-373483\n\n</i>
+
+        <b>Katiadi\n</b>
+        <i>Phone: 01713-373484\n\n</i>
+
+        <b>Bajitpur\n</b>
+        <i>Phone: 01713-373485\n\n</i>
+
+        <b>Kuliarchar\n</b>
+        <i>Phone: 01713-373486\n\n</i> \
+
+        <b>Bhairab\n</b>
+        <i>Phone: 01713-373487\n\n</i>
+
+        <b>Itna\n</b>
+        <i>Phone: 01713-373488\n\n</i>
+
+        <b>Mithamain\n</b>
+        <i>Phone: 01713-373489\n\n</i>
+
+        <b>Nikli\n</b>
+        <i>Phone: 01713-373490\n\n</i>
+
+        <b>Pakundia\n</b>
+        <i>Phone: 01713-373491\n\n</i>
+
+        <b>Astagram\n</b>
+        <i>Phone: 01713-373492\n\n</i>
+
+    </string>
+
+    <string name="ManikThanaContract">
+
+        <b>Manikganj\n</b>
+        <i>Phone: 01713-373379\n\n</i>
+
+        <b>Singair\n</b>
+        <i>Phone: 01713-373380\n\n</i>
+
+        <b>Shivalaya\n</b>
+        <i>Phone: 01713-373381\n\n</i>
+
+        <b>Saturia\n</b>
+        <i>Phone: 01713-373382\n\n</i>
+
+        <b>Harirampur\n</b>
+        <i>Phone: 01713-373383\n\n</i>
+
+        <b>Ghior\n</b>
+        <i>Phone: 01713-373384\n\n</i>
+
+        <b>Daulatpur\n</b>
+        <i>Phone: 01713-373385\n\n</i> \
+
+    </string>
+
+    <string name="munshiThanaContract">
+
+        <b>Munshiganj\n</b>
+        <i>Phone: 01713-373396\n\n</i>
+
+        <b>Tongibari\n</b>
+        <i>Phone: 01713-373397\n\n</i>
+
+        <b>Lauhojang\n</b>
+        <i>Phone: 01713-373398\n\n</i>
+
+        <b>Srinagar\n</b>
+        <i>Phone: 01713-373399\n\n</i>
+
+        <b>Shirajdikhan\n</b>
+        <i>Phone: 01713-373400\n\n</i>
+
+        <b>Gojaria\n</b>
+        <i>Phone: 01713-373401\n\n</i>
+    </string>
+
+    <string name="narsingdiThanaContract">
+
+        <b>Norshingdi\n</b>
+        <i>Phone: 01713-373412\n\n</i>
+
+        <b>Raypur\n</b>
+        <i>Phone: 01713-373413\n\n</i>
+
+        <b>Shibpur\n</b>
+        <i>Phone: 01713-373414\n\n</i>
+
+        <b>Belabo\n</b>
+        <i>Phone: 01713-373415\n\n</i>
+
+        <b>Monohordi\n</b>
+        <i>Phone: 01713-373416\n\n</i>
+
+        <b>palash\n</b>
+        <i>Phone: 01713-373417\n\n</i>
+    </string>
+
+    <string name="rajbariThanaContract">
+
+        <b>Rajbari\n</b>
+        <i>Phone: 01713-373412\n\n</i>
+
+        <b>Baliakandi\n</b>
+        <i>Phone: 01713-373413\n\n</i>
+
+        <b>Shibpur\n</b>
+        <i>Phone: 01713-373414\n\n</i>
+
+        <b>Pangsha\n</b>
+        <i>Phone: 01713-373415\n\n</i>
+
+        <b>Goalond\n</b>
+        <i>Phone: 01713-373416\n\n</i>
+    </string>
+
+    <string name="shariatpurThanaContract">
+
+        <b>Goshairhat\n</b>
+        <i>Phone: 01713-373612\n\n</i>
+
+        <b>Vedorgong\n</b>
+        <i>Phone: 01713-373613\n\n</i>
+
+        <b>Damuda\n</b>
+        <i>Phone: 01713-373614\n\n</i>
+
+        <b>Jajira\n</b>
+        <i>Phone: 01713-373615\n\n</i>
+
+        <b>Noria\n</b>
+        <i>Phone: 01713-373616\n\n</i>
+
+        <b>Palong\n</b>
+        <i>Phone: 01713-373617\n\n</i>
+
+        <b>Sokhipur\n</b>
+        <i>Phone: 01713-373618\n\n</i>
+    </string>
+
+    <string name="tangailThanaContract">
+
+        <b>Tangail\n</b>
+        <i>Phone: 01713-373454\n\n</i>
+
+        <b>Mirjapur\n</b>
+        <i>Phone: 01713-373455\n\n</i>
+
+        <b>Nagarpur\n</b>
+        <i>Phone: 01713-373456\n\n</i>
+
+        <b>sokhipur\n</b>
+        <i>Phone: 01713-373457\n\n</i>
+
+        <b>Basail\n</b>
+        <i>Phone: 01713-373458\n\n</i>
+
+        <b>Deldur\n</b>
+        <i>Phone: 01713-373459\n\n</i>
+
+        <b>Modhopur\n</b>
+        <i>Phone: 01713-373460\n\n</i>
+
+        <b>Ghatail\n</b>
+        <i>Phone: 01713-373461\n\n</i>
+
+        <b>khlihati\n</b>
+        <i>Phone: 01713-373462\n\n</i>
+
+        <b>Bhuyapur\n</b>
+        <i>Phone: 01713-373463\n\n</i>
+
+        <b>jumuna Bridge East\n</b>
+        <i>Phone: 01713-373464\n\n</i>
+
+        <b>Dhonbari\n</b>
+        <i>Phone: 01713-373465\n\n</i>
+
+        <b>Gopalpur\n</b>
+        <i>Phone: 01713-373466\n\n</i>
+        
+    </string>
+
+    <string name="narayanganjThanaContract">
+
+        <b>Narayanganj\n</b>
+        <i>Phone: 01713-373345\n\n</i>
+
+        <b>Fotulla\n</b>
+        <i>Phone: 01713-373346\n\n</i>
+
+        <b>Bandar\n</b>
+        <i>Phone: 01713-373347\n\n</i>
+
+        <b>Siddhirgango\n</b>
+        <i>Phone: 01713-373348\n\n</i>
+
+        <b>Aria Hazar\n</b>
+        <i>Phone: 01713-373349\n\n</i>
+
+        <b>Sonargaon\n</b>
+        <i>Phone: 01713-373350\n\n</i>
+
+        <b>Rupgung\n</b>
+        <i>Phone: 01713-373351\n\n</i>
+    </string>
+
+    <string name="bagerhatThanaContract">
+
+        <b>Bagerhat Sadar\n</b>
+        <i>Phone: +880468-62707, +8801713-374122\n\n</i>
+
+        <b>Chitalmari\n</b>
+        <i>Phone: +8804652-56003, +8801713-374125\n\n</i>
+
+        <b>Fakirhat\n</b>
+        <i>Phone: +8804653-56234, +8801713-374123\n\n</i>
+
+        <b>Kachua\n</b>
+        <i>Phone: +8804654-56014, +8801713-374126\n\n</i>
+
+        <b>Mollahat\n</b>
+        <i>Phone: +8804655-56010, +8801713-374124\n\n</i>
+
+        <b>Mongla\n</b>
+        <i>Phone: +8804658-73222, +8801713-374129\n\n</i>
+
+        <b>Morrelganj\n</b>
+        <i>Phone: +8804656-56225, +8801713-374127\n\n</i>
+
+        <b>Rampal\n</b>
+        <i>Phone: +8804657-56004, +8801713-374130\n\n</i>
+
+        <b>Sarankhola\n</b>
+        <i>Phone: +8804659-56028, +8801713-374128\n\n</i>
+
+    </string>
+
+    <string name="chuadangaThanaContract">
+
+        <b>Chuadanga\n</b>
+        <i>Phone: 01713-374236\n\n</i>
+
+        <b>Alamdanga\n</b>
+        <i>Phone: 01713-374237\n\n</i>
+
+        <b>Jibon Nagar\n</b>
+        <i>Phone: 01713-374238\n\n</i>
+
+        <b>Demoorhuda\n</b>
+        <i>Phone: 01713-374239\n\n</i>
+
+    </string>
+
+    <string name="jessoreThanaContract">
+
+        <b>Kotoali\n</b>
+        <i>Phone: 01713-374161\n\n</i>
+
+        <b>Jhikorgacha\n</b>
+        <i>Phone: 01713-374162\n\n</i>
+
+        <b>Sharsha\n</b>
+        <i>Phone: 01713-374163\n\n</i>
+
+        <b>Chougacha\n</b>
+        <i>Phone: 01713-374164\n\n</i>
+
+        <b>Monirampur\n</b>
+        <i>Phone: 01713-374165\n\n</i>
+
+        <b>Keshabpur\n</b>
+        <i>Phone: 01713-374166\n\n</i>
+
+        <b>Obhoynagar\n</b>
+        <i>Phone: 01713-374167\n\n</i>
+
+        <b>Bagharpara\n</b>
+        <i>Phone: 01713-374168\n\n</i>
+
+        <b>Benapole Port\n</b>
+        <i>Phone: 01713-374169\n\n</i>
+
+        <b>Benapole Check Post\n</b>
+        <i>Phone: 01713-374170\n\n</i>
+
+    </string>
+
+    <string name="jhenaidaThanaContract">
+
+        <b>Jhenaidah \n</b>
+        <i>Phone: 01713-374192\n\n</i>
+
+        <b>Kaligang\n</b>
+        <i>Phone: 01713-374193\n\n</i>
+
+        <b>Shoilokupa\n</b>
+        <i>Phone: 01713-374194\n\n</i>
+
+        <b>Horinakundo\n</b>
+        <i>Phone: 01713-374195\n\n</i>
+
+        <b>Kotchadpur\n</b>
+        <i>Phone: 01713-374196\n\n</i>
+
+        <b>Moheshpur\n</b>
+        <i>Phone: 01713-374197\n\n</i>
+
+    </string>
+
+    <string name="khulnaThanaContract">
+
+        <b>Fooltola \n</b>
+        <i>Phone: 01713-374103\n\n</i>
+
+        <b>DIgholia\n</b>
+        <i>Phone: 01713-374104\n\n</i>
+
+        <b>Paikgacha\n</b>
+        <i>Phone: 01713-374105\n\n</i>
+
+        <b>Batiaghata\n</b>
+        <i>Phone: 01713-374106\n\n</i>
+
+        <b>Dumuria\n</b>
+        <i>Phone: 01713-374107\n\n</i>
+
+        <b>Terokhada\n</b>
+        <i>Phone: 01713-374108\n\n</i>
+
+        <b>Rupsha\n</b>
+        <i>Phone: 01713-374109\n\n</i>
+
+        <b>Dakop\n</b>
+        <i>Phone: 01713-374110\n\n</i>
+
+        <b>Koyra\n</b>
+        <i>Phone: 01713-374111\n\n</i>
+
+    </string>
+
+    <string name="kustiaThanaContract">
+
+        <b>Kushtia\n</b>
+        <i>Phone: 01713-374220\n\n</i>
+
+        <b>Khoksha\n</b>
+        <i>Phone: 01713-374221\n\n</i>
+
+        <b>Kumarkhali\n</b>
+        <i>Phone: 01713-374222\n\n</i>
+
+        <b>Bheramara\n</b>
+        <i>Phone: 01713-374223\n\n</i>
+
+        <b>Doulotpur\n</b>
+        <i>Phone: 01713-374224\n\n</i>
+
+        <b>Mirpur\n</b>
+        <i>Phone: 01713-374225\n\n</i>
+
+        <b>Islami University\n</b>
+        <i>Phone: 01713-374226\n\n</i>
+
+    </string>
+
+    <string name="maguraThanaContract">
+
+        <b>Magura\n</b>
+        <i>Phone: 01713-374179\n\n</i>
+
+        <b>Shalikha\n</b>
+        <i>Phone: 01713-374180\n\n</i>
+
+        <b>Sreepur Magura\n</b>
+        <i>Phone: 01713-374181\n\n</i>
+
+        <b>Mohammadpur\n</b>
+        <i>Phone: 01713-374182\n\n</i>
+
+    </string>
+
+    <string name="meherpurThanaContract">
+
+        <b>Meherpur\n</b>
+        <i>Phone: 01713-374179\n\n</i>
+
+        <b>Gangni\n</b>
+        <i>Phone: 01713-374180\n\n</i>
+
+        <b>Mojibnagar\n</b>
+        <i>Phone: 01713-374181\n\n</i>
+
+        <b>Mohammadpur\n</b>
+        <i>Phone: 01713-374182\n\n</i>
+
+    </string>
+
+    <string name="narailThanaContract">
+
+        <b>Norail\n</b>
+        <i>Phone: 01713-374206\n\n</i>
+
+        <b>Kalia\n</b>
+        <i>Phone: 01713-374207\n\n</i>
+
+        <b>Lohagora\n</b>
+        <i>Phone: 01713-374208\n\n</i>
+
+        <b>Noragoti\n</b>
+        <i>Phone: 01713-374209\n\n</i>
+
+    </string>
+
+    <string name="satkhiraThanaContract">
+
+        <b>Shatkhira\n</b>
+        <i>Phone: 01713-374141\n\n</i>
+
+        <b>Koraroa\n</b>
+        <i>Phone: 01713-374142\n\n</i>
+
+        <b>Tala\n</b>
+        <i>Phone: 01713-374143\n\n</i>
+
+        <b>Shyam Nagar\n</b>
+        <i>Phone: 01713-374144\n\n</i>
+
+        <b>Debhata\n</b>
+        <i>Phone: 01713-374145\n\n</i>
+
+        <b>Ashashuni\n</b>
+        <i>Phone: 01713-374146\n\n</i>
+
+    </string>
+
+    <string name="barisalThanaContract">
+
+        <b>Kotoali\n</b>
+        <i>Phone: 01713-374267\n\n</i>
+
+        <b>Hijla\n</b>
+        <i>Phone: 01713-374268\n\n</i>
+
+        <b>Mehedigang\n</b>
+        <i>Phone: 01713-374269\n\n</i>
+
+        <b>Muladi\n</b>
+        <i>Phone: 01713-374270\n\n</i>
+
+        <b>Babuganj\n</b>
+        <i>Phone: 01713-374271\n\n</i>
+
+        <b>bakerganj\n</b>
+        <i>Phone: 01713-374272\n\n</i>
+
+        <b>Banoripara\n</b>
+        <i>Phone: 01713-374273\n\n</i>
+
+        <b>Ogoilojhara\n</b>
+        <i>Phone: 01713-374274\n\n</i>
+
+        <b>Gouronodi\n</b>
+        <i>Phone: 01713-374275\n\n</i>
+
+        <b>Ujirpur\n</b>
+        <i>Phone: 01713-374276\n\n</i>
+
+    </string>
+
+    <string name="bargunaThanaContract">
+
+        <b>Barguna\n</b>
+        <i>Phone: 01713-374353\n\n</i>
+
+        <b>Amtoli\n</b>
+        <i>Phone: 01713-374354\n\n</i>
+
+        <b>Pathorghata\n</b>
+        <i>Phone: 01713-374355\n\n</i>
+
+        <b>Betagi\n</b>
+        <i>Phone: 01713-374356\n\n</i>
+
+        <b>Bamona\n</b>
+        <i>Phone: 01713-374357\n\n</i>
+
+        <b>Taltoli\n</b>
+        <i>Phone: 01713-374358\n\n</i>
+
+    </string>
+
+    <string name="bholaThanaContract">
+
+        <b>Bhola\n</b>
+        <i>Phone: 01713-374300\n\n</i>
+
+        <b>Douotkha\n</b>
+        <i>Phone: 01713-374301\n\n</i>
+
+        <b>Tojumuddin\n</b>
+        <i>Phone: 01713-374302\n\n</i>
+
+        <b>Borhan Uddin\n</b>
+        <i>Phone: 01713-374303\n\n</i>
+
+        <b>Lalmohon\n</b>
+        <i>Phone: 01713-374304\n\n</i>
+
+        <b>Chorfashion\n</b>
+        <i>Phone: 01713-374305\n\n</i>
+
+        <b>Monpura\n</b>
+        <i>Phone: 01713-374306\n\n</i>
+
+    </string>
+
+    <string name="jhalokathiThanaContract">
+
+        <b>Jhalokathi\n</b>
+        <i>Phone: 01713-374286\n\n</i>
+
+        <b>Nolchiti\n</b>
+        <i>Phone: 01713-374287\n\n</i>
+
+        <b>Rajapur\n</b>
+        <i>Phone: 01713-374288\n\n</i>
+
+        <b>Kathalia\n</b>
+        <i>Phone: 01713-374289\n\n</i>
+
+    </string>
+
+    <string name="pirojpurThanaContract">
+
+        <b>Pirojpur\n</b>
+        <i>Phone: 01713-374336\n\n</i>
+
+        <b>Bhandaria\n</b>
+        <i>Phone: 01713-374337\n\n</i>
+
+        <b>Nesrabad\n</b>
+        <i>Phone: 01713-374338\n\n</i>
+
+        <b>Kaukhali\n</b>
+        <i>Phone: 01713-374339\n\n</i>
+
+        <b>Nazirur\n</b>
+        <i>Phone: 01713-374340\n\n</i>
+
+        <b>Zia Nagar\n</b>
+        <i>Phone: 01713-374341\n\n</i>
+
+        <b>Mothbaria\n</b>
+        <i>Phone: 01713-374342\n\n</i>
+
+    </string>
+
+    <string name="patuakhaliThanaContract">
+
+        <b>Patuakhali\n</b>
+        <i>Phone: 01713-374318\n\n</i>
+
+        <b>Baufol\n</b>
+        <i>Phone: 01713-374319\n\n</i>
+
+        <b>Golachipa\n</b>
+        <i>Phone: 01713-374320\n\n</i>
+
+        <b>Dosmina\n</b>
+        <i>Phone: 01713-374321\n\n</i>
+
+        <b>Dumki\n</b>
+        <i>Phone: 01713-374322\n\n</i>
+
+        <b>Kolapara\n</b>
+        <i>Phone: 01713-374323\n\n</i>
+
+        <b>Mirzaganj\n</b>
+        <i>Phone: 01713-374324\n\n</i>
+
+        <b>Rangabali\n</b>
+        <i>Phone: 01713-374325\n\n</i>
+
+    </string>
+
+    <string name="habiganjThanaContract">
+
+        <b>Habigang\n</b>
+        <i>Phone: 01713-374398\n\n</i>
+
+        <b>Madhabpur\n</b>
+        <i>Phone: 01713-374399\n\n</i>
+
+        <b>Chunarughat\n</b>
+        <i>Phone: 01713-374400\n\n</i>
+
+        <b>Bahubol\n</b>
+        <i>Phone: 01713-374401\n\n</i>
+
+        <b>Lakhai\n</b>
+        <i>Phone: 01713-374402\n\n</i>
+
+        <b>Nabiganj\n</b>
+        <i>Phone: 01713-374403\n\n</i>
+
+        <b>Baniyochong\n</b>
+        <i>Phone: 01713-374404\n\n</i>
+
+        <b>Ajmaryganj\n</b>
+        <i>Phone: 01713-374405\n\n</i>
+
+        <b>Shayestaganj\n</b>
+        <i>Phone: 01713-374406\n\n</i>
+
+    </string>
+
+    <string name="sunamganjThanaContract">
+
+        <b>Chatak\n</b>
+        <i>Phone: 01713-374419\n\n</i>
+
+        <b>Jagannathpur\n</b>
+        <i>Phone: 01713-374420\n\n</i>
+
+        <b>Thairpur\n</b>
+        <i>Phone: 01713-374421\n\n</i>
+
+        <b>Bishombhorpur\n</b>
+        <i>Phone: 01713-374422\n\n</i>
+
+        <b>Doarabazer\n</b>
+        <i>Phone: 01713-374423\n\n</i>
+
+        <b>Dirai\n</b>
+        <i>Phone: 01713-374424\n\n</i>
+
+        <b>Shala\n</b>
+        <i>Phone: 01713-374425\n\n</i>
+
+        <b>Jamalganj\n</b>
+        <i>Phone: 01713-374426\n\n</i>
+
+        <b>Dhormopasha\n</b>
+        <i>Phone: 01713-374427\n\n</i>
+
+        <b>Moddhonagar \n</b>
+        <i>Phone: 01713-374428\n\n</i>
+
+    </string>
+
+    <string name="sylhetThanaContract">
+
+        <b>Kotoali\n</b>
+        <i>Phone: 01713-374419\n\n</i>
+
+        <b>Balaganj\n</b>
+        <i>Phone: 01713-374420\n\n</i>
+
+        <b>Joyeentapur\n</b>
+        <i>Phone: 01713-374421\n\n</i>
+
+        <b>Goyaeenghat\n</b>
+        <i>Phone: 01713-374422\n\n</i>
+
+        <b>Kanaighat\n</b>
+        <i>Phone: 01713-374423\n\n</i>
+
+        <b>companygong\n</b>
+        <i>Phone: 01713-374424\n\n</i>
+
+        <b>Jokigani\n</b>
+        <i>Phone: 01713-374425\n\n</i>
+
+        <b>BiYanibazar\n</b>
+        <i>Phone: 01713-374426\n\n</i>
+
+        <b>Golapgang\n</b>
+        <i>Phone: 01713-374427\n\n</i>
+
+        <b>Bisshwanath\n</b>
+        <i>Phone: 01713-374428\n\n</i>
+
+        <b>Fenchuganj\n</b>
+        <i>Phone: 01713-374428\n\n</i>
+
+        <b>South Sorma\n</b>
+        <i>Phone: 01713-374428\n\n</i>
+
+        <b>Osmaninagar\n</b>
+        <i>Phone: 01713-374428\n\n</i>
+
+    </string>
+
+    <string name="moulvibazarThanaContract">
+
+        <b>Moulvibazar Sadar\n</b>
+        <i>Phone: 01713-374439\n\n</i>
+
+        <b>Juri\n</b>
+        <i>Phone: 01713-374445\n\n</i>
+
+        <b>Rajnagar\n</b>
+        <i>Phone: 01713-374442\n\n</i>
+
+        <b>Sreemangal\n</b>
+        <i>Phone: 01713-374440\n\n</i>
+
+        <b>Kulaura\n</b>
+        <i>Phone: 01713-374443\n\n</i>
+
+        <b>Komolganj\n</b>
+        <i>Phone: 01713-374441\n\n</i>
+
+        <b>Barlekha\n</b>
+        <i>Phone: 01713-374444\n\n</i>
+
+    </string>
+
+    <string name="jamalThanaContract">
+
+        <b>Jamalpur Sadar\n</b>
+        <i>Phone: 01713-374439\n\n</i>
+
+        <b>Baksiganj\n</b>
+        <i>Phone: 01713-373544\n\n</i>
+
+        <b>Dewanganj\n</b>
+        <i>Phone: 01713-373541\n\n</i>
+
+        <b>Islampur\n</b>
+        <i>Phone: 01713-373539\n\n</i>
+
+        <b>Madarganj\n</b>
+        <i>Phone: 01713-373543\n\n</i>
+
+        <b>Melandaha\n</b>
+        <i>Phone: 01713-373539\n\n</i>
+
+        <b>Sarishabari\n</b>
+        <i>Phone: 01713-373540\n\n</i>
+
+        <b>Bahadurabad\n</b>
+        <i>Phone: 01713-373545\n\n</i>
+
+    </string>
+
+    <string name="mymensingThanaContract">
+
+        <b>Kotoali\n</b>
+        <i>Phone: 01713-373430\n\n</i>
+
+        <b>Muktagacha\n</b>
+        <i>Phone: 01713-373431\n\n</i>
+
+        <b>Fulbaria\n</b>
+        <i>Phone: 01713-373432\n\n</i>
+
+        <b>Trishal\n</b>
+        <i>Phone: 01713-373433\n\n</i>
+
+        <b>Gouripur\n</b>
+        <i>Phone: 01713-373434\n\n</i>
+
+        <b>Ishshorgong\n</b>
+        <i>Phone: 01713-373435\n\n</i>
+
+        <b>Nandail\n</b>
+        <i>Phone: 01713-373436\n\n</i>
+
+        <b>Fulpur\n</b>
+        <i>Phone: 01713-373437\n\n</i>
+
+        <b>Haluagat\n</b>
+        <i>Phone: 01713-373438\n\n</i>
+
+        <b>Dhobaure\n</b>
+        <i>Phone: 01713-373439\n\n</i>
+
+        <b>Gafargao\n</b>
+        <i>Phone: 01713-373440\n\n</i>
+
+        <b>Bhaluka\n</b>
+        <i>Phone: 01713-373441\n\n</i>
+
+        <b>Tarakanda\n</b>
+        <i>Phone: 01713-373442\n\n</i>
+
+    </string>
+
+    <string name="netrokonaThanaContract">
+
+        <b>Netrokona\n</b>
+        <i>Phone: 01713-373505\n\n</i>
+
+        <b>Barhata\n</b>
+        <i>Phone: 01713-373506\n\n</i>
+
+        <b>Kolmakanda\n</b>
+        <i>Phone: 01713-373507\n\n</i>
+
+        <b>Atpara\n</b>
+        <i>Phone: 01713-373508\n\n</i>
+
+        <b>Durgapur\n</b>
+        <i>Phone: 01713-373509\n\n</i>
+
+        <b>purbothola\n</b>
+        <i>Phone: 01713-373510\n\n</i>
+
+        <b>Kendua\n</b>
+        <i>Phone: 01713-373511\n\n</i>
+
+        <b>Modon\n</b>
+        <i>Phone: 01713-373512\n\n</i>
+
+        <b>Mohongang\n</b>
+        <i>Phone: 01713-373513\n\n</i>
+
+        <b>Khaliajuri\n</b>
+        <i>Phone: 01713-373514\n\n</i>
+
+    </string>
+
+    <string name="sherpurThanaContract">
+
+        <b>Sherpur\n</b>
+        <i>Phone: 01713-373523\n\n</i>
+
+        <b>Nakla\n</b>
+        <i>Phone: 01713-373524\n\n</i>
+
+        <b>Nalitabari\n</b>
+        <i>Phone: 01713-373525\n\n</i>
+
+        <b>Sribordi\n</b>
+        <i>Phone: 01713-373526\n\n</i>
+
+        <b>Jhinaigati\n</b>
+        <i>Phone: 01713-373527\n\n</i>
+
+    </string>
+
+    <string name="boguraThanaContract">
+
+        <b>Bogara\n</b>
+        <i>Phone: 01713-374061\n\n</i>
+
+        <b>Shibgang\n</b>
+        <i>Phone: 01713-374062\n\n</i>
+
+        <b>Shonatola\n</b>
+        <i>Phone: 01713-374063\n\n</i>
+
+        <b>Gabtoli\n</b>
+        <i>Phone: 01713-374064\n\n</i>
+
+        <b>Shariakandi\n</b>
+        <i>Phone: 01713-374065\n\n</i>
+
+        <b>Adamdighi\n</b>
+        <i>Phone: 01713-374066\n\n</i>
+
+        <b>Dhupchachiya\n</b>
+        <i>Phone: 01713-374067\n\n</i>
+
+        <b>Kahalu\n</b>
+        <i>Phone: 01713-374068\n\n</i>
+
+        <b>Sherpur\n</b>
+        <i>Phone: 01713-374069\n\n</i>
+
+        <b>Dhunot\n</b>
+        <i>Phone: 01713-374070\n\n</i>
+
+        <b>Nandigram\n</b>
+        <i>Phone: 01713-374071\n\n</i>
+
+        <b>Shahiahanpur\n</b>
+        <i>Phone: 01713-374072\n\n</i>
+
+    </string>
+
+    <string name="chapainawabganjThanaContract">
+
+        <b>Nababgong\n</b>
+        <i>Phone: 01713-373819\n\n</i>
+
+        <b>Sibgong\n</b>
+        <i>Phone: 01713-373820\n\n</i>
+
+        <b>Gomostapur\n</b>
+        <i>Phone: 01713-373821\n\n</i>
+
+        <b>Nachol\n</b>
+        <i>Phone: 01713-373822\n\n</i>
+
+        <b>Volahat\n</b>
+        <i>Phone: 01713-373823\n\n</i>
+
+    </string>
+
+    <string name="joypurhatThanaContract">
+
+        <b>Joypurhat\n</b>
+        <i>Phone: 01713-374082\n\n</i>
+
+        <b>Kalai\n</b>
+        <i>Phone: 01713-374083\n\n</i>
+
+        <b>Khetlal\n</b>
+        <i>Phone: 01713-374084\n\n</i>
+
+        <b>Akkelpur\n</b>
+        <i>Phone: 01713-374085\n\n</i>
+
+        <b>Pach Bibi\n</b>
+        <i>Phone: 01713-374086\n\n</i>
+
+    </string>
+
+    <string name="natoreThanaContract">
+
+        <b>Natore\n</b>
+        <i>Phone: 01713-373857\n\n</i>
+
+        <b>Shingara\n</b>
+        <i>Phone: 01713-373858\n\n</i>
+
+        <b>Bagatipura\n</b>
+        <i>Phone: 01713-373859\n\n</i>
+
+        <b>Gurudaspur\n</b>
+        <i>Phone: 01713-373860\n\n</i>
+
+        <b>Lalpur\n</b>
+        <i>Phone: 01713-373861\n\n</i>
+
+        <b>Boroigram\n</b>
+        <i>Phone: 01713-373862\n\n</i>
+
+        <b>Noldanga \n</b>
+        <i>Phone: 01713-373863\n\n</i>
+
+    </string>
+
+    <string name="pabnaThanaContract">
+
+        <b>Pabna\n</b>
+        <i>Phone: 01713-374016\n\n</i>
+
+        <b>Ishwardi\n</b>
+        <i>Phone: 01713-374017\n\n</i>
+
+        <b>Atgharia\n</b>
+        <i>Phone: 01713-374018\n\n</i>
+
+        <b>Chatmohor\n</b>
+        <i>Phone: 01713-374019\n\n</i>
+
+        <b>Bangoora\n</b>
+        <i>Phone: 01713-374020\n\n</i>
+
+        <b>Faridpur\n</b>
+        <i>Phone: 01713-374021\n\n</i>
+
+        <b>Shujanagar\n</b>
+        <i>Phone: 01713-374022\n\n</i>
+
+        <b>Bera\n</b>
+        <i>Phone: 01713-374023\n\n</i>
+
+        <b>Shathia\n</b>
+        <i>Phone: 01713-374024\n\n</i>
+
+        <b>Ataikula\n</b>
+        <i>Phone: 01713-374025\n\n</i>
+
+    </string>
+
+    <string name="neogaThanaContract">
+
+        <b>Neoga\n</b>
+        <i>Phone: 01713-373836\n\n</i>
+
+        <b>Raninagar\n</b>
+        <i>Phone: 01713-373837\n\n</i>
+
+        <b>Atraj\n</b>
+        <i>Phone: 01713-373838\n\n</i>
+
+        <b>Dhamrai\n</b>
+        <i>Phone: 01713-373839\n\n</i>
+
+        <b>Badolgachi\n</b>
+        <i>Phone: 01713-373840\n\n</i>
+
+        <b>Mahadebpur\n</b>
+        <i>Phone: 01713-373840\n\n</i>
+
+        <b>Patnitala\n</b>
+        <i>Phone: 01713-373841\n\n</i>
+
+        <b>Niamotpur\n</b>
+        <i>Phone: 01713-373842\n\n</i>
+
+        <b>Manda\n</b>
+        <i>Phone: 01713-373843\n\n</i>
+
+        <b>Sapahar\n</b>
+        <i>Phone: 01713-373844\n\n</i>
+
+        <b>Porsha\n</b>
+        <i>Phone: 01713-373845\n\n</i>
+
+    </string>
+
+    <string name="rajshahiThanaContract">
+
+        <b>Pabna\n</b>
+        <i>Phone: 01713-373800\n\n</i>
+
+        <b>Godagari\n</b>
+        <i>Phone: 01713-373801\n\n</i>
+
+        <b>Tanor\n</b>
+        <i>Phone: 01713-373802\n\n</i>
+
+        <b>Mohanpur\n</b>
+        <i>Phone: 01713-373803\n\n</i>
+
+        <b>Puthia\n</b>
+        <i>Phone: 01713-373804\n\n</i>
+
+        <b>Bagmara\n</b>
+        <i>Phone: 01713-373805\n\n</i>
+
+        <b>Durgapur\n</b>
+        <i>Phone: 01713-373806\n\n</i>
+
+        <b>Charghat\n</b>
+        <i>Phone: 01713-373807\n\n</i>
+
+        <b>Bagha\n</b>
+        <i>Phone: 01713-373808\n\n</i>
+
+    </string>
+
+    <string name="sirajganjThanaContract">
+
+        <b>Shirajganj\n</b>
+        <i>Phone: 01713-374038\n\n</i>
+
+        <b>Shahjadpur\n</b>
+        <i>Phone: 01713-374039\n\n</i>
+
+        <b>Ullapara\n</b>
+        <i>Phone: 01713-374040\n\n</i>
+
+        <b>Chouhali\n</b>
+        <i>Phone: 01713-374041\n\n</i>
+
+        <b>Tarash\n</b>
+        <i>Phone: 01713-374042\n\n</i>
+
+        <b>kazipur\n</b>
+        <i>Phone: 01713-374043\n\n</i>
+
+        <b>Kamarkhand\n</b>
+        <i>Phone: 01713-374044\n\n</i>
+
+        <b>Raygang\n</b>
+        <i>Phone: 01713-374045\n\n</i>
+
+        <b>Belkuchi\n</b>
+        <i>Phone: 01713-374046\n\n</i>
+
+        <b>Jumana Bridge West\n</b>
+        <i>Phone: 01713-374047\n\n</i>
+
+        <b>Salanga\n</b>
+        <i>Phone: 01713-374048\n\n</i>
+
+        <b>Enayetpur\n</b>
+        <i>Phone: 01713-374049\n\n</i>
+
+    </string>
+
+    <string name="brahmanbariaThanaContract">
+
+        <b>Sadar Brahmonbaria\n</b>
+        <i>Phone: 01713-373730\n\n</i>
+
+        <b>Sorail\n</b>
+        <i>Phone: 01713-373731\n\n</i>
+
+        <b>Assugong\n</b>
+        <i>Phone: 01713-373732\n\n</i>
+
+        <b>Nasirnagar\n</b>
+        <i>Phone: 01713-373733\n\n</i>
+
+        <b>Nabinagar\n</b>
+        <i>Phone: 01713-373734\n\n</i>
+
+        <b>Bancharampur\n</b>
+        <i>Phone: 01713-373735\n\n</i>
+
+        <b>kasba\n</b>
+        <i>Phone: 01713-373736\n\n</i>
+
+        <b>Akhaura\n</b>
+        <i>Phone: 01713-373737\n\n</i>
+
+    </string>
+
+    <string name="comillaThanaContract">
+
+        <b>Kotoali\n</b>
+        <i>Phone: 01713-373685\n\n</i>
+
+        <b>Choddogram\n</b>
+        <i>Phone: 01713-373686\n\n</i>
+
+        <b>Debidar\n</b>
+        <i>Phone: 01713-373687\n\n</i>
+
+        <b>Homna\n</b>
+        <i>Phone: 01713-373688\n\n</i>
+
+        <b>Laksam\n</b>
+        <i>Phone: 01713-373689\n\n</i>
+
+        <b>Daudkandi\n</b>
+        <i>Phone: 01713-373690\n\n</i>
+
+        <b>Burichhong\n</b>
+        <i>Phone: 01713-373691\n\n</i>
+
+        <b>Chandia\n</b>
+        <i>Phone: 01713-373692\n\n</i>
+
+        <b>Borura\n</b>
+        <i>Phone: 01713-373693\n\n</i>
+
+        <b>Nangolcourt\n</b>
+        <i>Phone: 01713-373694\n\n</i>
+
+        <b>Muradnagar\n</b>
+        <i>Phone: 01713-373695\n\n</i>
+
+        <b>Brammonpara\n</b>
+        <i>Phone: 01713-373696\n\n</i>
+
+        <b>Meghna\n</b>
+        <i>Phone: 01713-373697\n\n</i>
+
+        <b>Monohorgong\n</b>
+        <i>Phone: 01713-373698\n\n</i>
+
+        <b>Titas\n</b>
+        <i>Phone: 01713-373699\n\n</i>
+
+        <b>(Sadar South) Comilla\n</b>
+        <i>Phone: 01713-373700\n\n</i>
+
+    </string>
+
+    <string name="chandpurThanaContract">
+
+        <b>Chandpur\n</b>
+        <i>Phone: 01713-373712\n\n</i>
+
+        <b>Hajigonj\n</b>
+        <i>Phone: 01713-373713\n\n</i>
+
+        <b>Motlob North\n</b>
+        <i>Phone: 01713-373714\n\n</i>
+
+        <b>Motlob South\n</b>
+        <i>Phone: 01713-373715\n\n</i>
+
+        <b>Shahrasti\n</b>
+        <i>Phone: 01713-373716\n\n</i>
+
+        <b>Kochua\n</b>
+        <i>Phone: 01713-373717\n\n</i>
+
+        <b>Faridgoing\n</b>
+        <i>Phone: 01713-373718\n\n</i>
+
+        <b>Haimchore\n</b>
+        <i>Phone: 01713-373719\n\n</i>
+
+    </string>
+
+    <string name="lakshmipurThanaContract">
+
+        <b>Laxmipur\n</b>
+        <i>Phone: 01713-373765\n\n</i>
+
+        <b>Raipura\n</b>
+        <i>Phone: 01713-373766\n\n</i>
+
+        <b>Raipura\n</b>
+        <i>Phone: 01713-373767\n\n</i>
+
+        <b>Ramgonj\n</b>
+        <i>Phone: 01713-373768\n\n</i>
+
+        <b>Ramgoti\n</b>
+        <i>Phone: 01713-373769\n\n</i>
+
+        <b>Kochua\n</b>
+        <i>Phone: 01713-373770\n\n</i>
+
+        <b>Faridgoing\n</b>
+        <i>Phone: 01713-373771\n\n</i>
+
+        <b>Haimchore\n</b>
+        <i>Phone: 01713-373772\n\n</i>
+
+    </string>
+
+    <string name="noakhaliThanaContract">
+
+        <b>Sudhharm\n</b>
+        <i>Phone: 01713-373748\n\n</i>
+
+        <b>Begumgong\n</b>
+        <i>Phone: 01713-373749\n\n</i>
+
+        <b>Senbag\n</b>
+        <i>Phone: 01713-373750\n\n</i>
+
+        <b>Sonairmuri\n</b>
+        <i>Phone: 01713-373751\n\n</i>
+
+        <b>Companigonj\n</b>
+        <i>Phone: 01713-373752\n\n</i>
+
+        <b>Chatkhali\n</b>
+        <i>Phone: 01713-373753\n\n</i>
+
+        <b>Hatia\n</b>
+        <i>Phone: 01713-373754\n\n</i>
+
+        <b>Chorjobber\n</b>
+        <i>Phone: 01713-373755\n\n</i>
+
+    </string>
+
+    <string name="feniThanaContract">
+
+        <b>Feni\n</b>
+        <i>Phone: 01713-373778\n\n</i>
+
+        <b>Sonagaji\n</b>
+        <i>Phone: 01713-373779\n\n</i>
+
+        <b>Fulgaji\n</b>
+        <i>Phone: 01713-373780\n\n</i>
+
+        <b>Porsuram\n</b>
+        <i>Phone: 01713-373781\n\n</i>
+
+        <b>Chagol Naiya\n</b>
+        <i>Phone: 01713-373782\n\n</i>
+
+        <b>Dagonvuia\n</b>
+        <i>Phone: 01713-373783\n\n</i>
+
+        <b>Hatia\n</b>
+        <i>Phone: 01713-373754\n\n</i>
+
+        <b>Chorjobber\n</b>
+        <i>Phone: 01713-373755\n\n</i>
+
+
+    </string>
+
+    <string name="chittagongThanaContract">
+
+        <b>Satkania\n</b>
+        <i>Phone: 01713-373649\n\n</i>
+
+        <b>Bashkhali\n</b>
+        <i>Phone: 01713-373648\n\n</i>
+
+        <b>Mirsharai\n</b>
+        <i>Phone: 01713-373644\n\n</i>
+
+        <b>Patiya\n</b>
+        <i>Phone: 01713-373643\n\n</i>
+
+        <b>Rangunia\n</b>
+        <i>Phone: 01713-373642\n\n</i>
+
+        <b>Fatikchhari\n</b>
+        <i>Phone: 01713-373641\n\n</i>
+
+        <b>Raozan\n</b>
+        <i>Phone: 01713-373639\n\n</i>
+
+        <b>Hathazari\n</b>
+        <i>Phone: 01713-373640\n\n</i>
+
+        <b>Boalkhali\n</b>
+        <i>Phone: 01713-373647\n\n</i>
+
+        <b>Anwara\n</b>
+        <i>Phone: 01713-373646\n\n</i>
+
+        <b>Sitakunda\n</b>
+        <i>Phone: 01713-373645\n\n</i>
+
+        <b>Sandwip\n</b>
+        <i>Phone: 01713-373652\n\n</i>
+
+        <b>Lohagara\n</b>
+        <i>Phone: 01713-373650\n\n</i>
+
+        <b>Chandanaish\n</b>
+        <i>Phone: 01713-373651\n\n</i>
+
+        <b>Bandar\n</b>
+        <i>Phone: 01713-373267\n\n</i>
+
+        <b>Double moorning\n</b>
+        <i>Phone: 01713-373268\n\n</i>
+
+        <b>Kotoali\n</b>
+        <i>Phone: 01713-373256\n\n</i>
+
+        <b>Paharttoli\n</b>
+        <i>Phone: 01713-373257\n\n</i>
+
+        <b>Panchlaish\n</b>
+        <i>Phone: 01713-373258\n\n</i>
+
+        <b>Chandgo\n</b>
+        <i>Phone: 01713-373259\n\n</i>
+
+    </string>
+
+    <string name="coxsBazarThanaContract">
+
+        <b>Cox’s Bazar\n</b>
+        <i>Phone: 01713-373663\n\n</i>
+
+        <b>Ramu\n</b>
+        <i>Phone: 01713-373664\n\n</i>
+
+        <b>Ukhia\n</b>
+        <i>Phone: 01713-373665\n\n</i>
+
+        <b>Teknaf\n</b>
+        <i>Phone: 01713-373666\n\n</i>
+
+        <b>Chokoria\n</b>
+        <i>Phone: 01713-373667\n\n</i>
+
+        <b>Kutubdia\n</b>
+        <i>Phone: 01713-373668\n\n</i>
+
+        <b>Moheshkhali\n</b>
+        <i>Phone: 01713-373669\n\n</i>
+
+    </string>
+
+    <string name="khagracchariThanaContract">
+
+        <b>Khagrachhari Sadar\n</b>
+        <i>Phone: 01713-373765\n\n</i>
+
+        <b>Ramu\n</b>
+        <i>Phone: 01713-373664\n\n</i>
+
+        <b>Ukhia\n</b>
+        <i>Phone: 01713-373665\n\n</i>
+
+        <b>Teknaf\n</b>
+        <i>Phone: 01713-373666\n\n</i>
+
+        <b>Chokoria\n</b>
+        <i>Phone: 01713-373667\n\n</i>
+
+        <b>Kutubdia\n</b>
+        <i>Phone: 01713-373668\n\n</i>
+
+        <b>Moheshkhali\n</b>
+        <i>Phone: 01713-373669\n\n</i>
+
+    </string>
+
+    <string name="thakurgaonThanaContract">
+
+        <b>Thakurgaon\n</b>
+        <i>Phone: 01713-373985\n\n</i>
+
+        <b>Baliadangi\n</b>
+        <i>Phone: 01713-373986\n\n</i>
+
+        <b>Ranishongkilo\n</b>
+        <i>Phone: 01713-373987\n\n</i>
+
+        <b>Pirgonj\n</b>
+        <i>Phone: 01713-373988\n\n</i>
+
+        <b>Haripur\n</b>
+        <i>Phone: 01713-373989\n\n</i>
+
+    </string>
+
+    <string name="rangpurThanaContract">
+
+        <b>Kotoali\n</b>
+        <i>Phone: 01713-373874\n\n</i>
+
+        <b>Gongachora\n</b>
+        <i>Phone: 01713-373875\n\n</i>
+
+        <b>Bodorgonj\n</b>
+        <i>Phone: 01713-373876\n\n</i>
+
+        <b>Taragonj\n</b>
+        <i>Phone: 01713-373877\n\n</i>
+
+        <b>Mithapukur\n</b>
+        <i>Phone: 01713-373878\n\n</i>
+
+        <b>Firgacha\n</b>
+        <i>Phone: 01713-373879\n\n</i>
+
+        <b>Kawnia\n</b>
+        <i>Phone: 01713-373880\n\n</i>
+
+        <b>Pirgong\n</b>
+        <i>Phone: 01713-373881\n\n</i>
+
+    </string>
+
+    <string name="panchagarThanaContract">
+
+        <b>Panchagar\n</b>
+        <i>Phone: 01713-373999\n\n</i>
+
+        <b>Boda\n</b>
+        <i>Phone: 01713-374000\n\n</i>
+
+        <b>Atoari\n</b>
+        <i>Phone: 01713-374001\n\n</i>
+
+        <b>Tetulia\n</b>
+        <i>Phone: 01713-374002\n\n</i>
+
+        <b>Debigonj\n</b>
+        <i>Phone: 01713-374003\n\n</i>
+
+    </string>
+
+    <string name="nilphamariThanaContract">
+
+        <b>Nilphamari\n</b>
+        <i>Phone: 01713-373909\n\n</i>
+
+        <b>Sayedpur\n</b>
+        <i>Phone: 01713-373910\n\n</i>
+
+        <b>Joldhaka\n</b>
+        <i>Phone: 01713-373911\n\n</i>
+
+        <b>Kisorgonj\n</b>
+        <i>Phone: 01713-373912\n\n</i>
+
+        <b>Domra\n</b>
+        <i>Phone: 01713-373913\n\n</i>
+
+        <b>Dimia\n</b>
+        <i>Phone: 01713-373914\n\n</i>
+
+        <b>Sayedpur Police Fari\n</b>
+        <i>Phone: 01713-373915\n\n</i>
+
+    </string>
+
+    <string name="lalmonirhatThanaContract">
+
+        <b>Lalmonirhat\n</b>
+        <i>Phone: 01713-373946\n\n</i>
+
+        <b>Aditmari\n</b>
+        <i>Phone: 01713-373947\n\n</i>
+
+        <b>kaligonj\n</b>
+        <i>Phone: 01713-373948\n\n</i>
+
+        <b>Hatibandha\n</b>
+        <i>Phone: 01713-373949\n\n</i>
+
+        <b>Patgram\n</b>
+        <i>Phone: 01713-373950\n\n</i>
+
+    </string>
+
+    <string name="kurigramThanaContract">
+
+        <b>Kurigram\n</b>
+        <i>Phone: 01713-373926\n\n</i>
+
+        <b>Rajarhat\n</b>
+        <i>Phone: 01713-373927\n\n</i>
+
+        <b>Foolbari\n</b>
+        <i>Phone: 01713-373928\n\n</i>
+
+        <b>Nageshor\n</b>
+        <i>Phone: 01713-373929\n\n</i>
+
+        <b>Vurungamari\n</b>
+        <i>Phone: 01713-373930\n\n</i>
+
+        <b>Ulipur\n</b>
+        <i>Phone: 01713-373931\n\n</i>
+
+        <b>Chilmari\n</b>
+        <i>Phone: 01713-373932\n\n</i>
+
+        <b>Rowmari\n</b>
+        <i>Phone: 01713-373933\n\n</i>
+
+        <b>Rajibpur\n</b>
+        <i>Phone: 01713-373934\n\n</i>
+
+        <b>Dusmara\n</b>
+        <i>Phone: 01713-373935\n\n</i>
+
+        <b>Kochakata\n</b>
+        <i>Phone: 01713-373936\n\n</i>
+
+    </string>
+
+    <string name="gaibandhaThanaContract">
+
+        <b>Gaibandha\n</b>
+        <i>Phone: 01713-373892\n\n</i>
+
+        <b>Sadullapur\n</b>
+        <i>Phone: 01713-373893\n\n</i>
+
+        <b>Sudargonj\n</b>
+        <i>Phone: 01713-373894\n\n</i>
+
+        <b>Polashbari\n</b>
+        <i>Phone: 01713-373895\n\n</i>
+
+        <b>Gobindogong\n</b>
+        <i>Phone: 01713-373896\n\n</i>
+
+        <b>Saghata\n</b>
+        <i>Phone: 01713-373897\n\n</i>
+
+        <b>Foolchori\n</b>
+        <i>Phone: 01713-373898\n\n</i>
+
+    </string>
+
+    <string name="dinajpurThanaContract">
+
+        <b>Kotoali\n</b>
+        <i>Phone: \n\n</i>
+
+        <b>Chirir Bandar\n</b>
+        <i>Phone: 01713-373963\n\n</i>
+
+        <b>Birol\n</b>
+        <i>Phone: 01713-373964\n\n</i>
+
+        <b>Parbatipur\n</b>
+        <i>Phone: 01713-373965\n\n</i>
+
+        <b>Birgonj\n</b>
+        <i>Phone: 01713-373966\n\n</i>
+
+        <b>BOC Hagonj\n</b>
+        <i>Phone: 01713-373967\n\n</i>
+
+        <b>Kaharol\n</b>
+        <i>Phone: 01713-373968\n\n</i>
+
+        <b>Khansama\n</b>
+        <i>Phone: 01713-373969\n\n</i>
+
+        <b>Foolbari\n</b>
+        <i>Phone: 01713-373970\n\n</i>
+
+        <b>Birampur\n</b>
+        <i>Phone: 01713-373971\n\n</i>
+
+        <b>nababgonj\n</b>
+        <i>Phone: 01713-373972\n\n</i>
+
+        <b>Ghoraghat\n</b>
+        <i>Phone: 01713-373973\n\n</i>
+
+        <b>Hakimpur\n</b>
+        <i>Phone: 01713-373974\n\n</i>
+
+    </string>
+
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string name="dialogTitle">Human Safety</string>
+    <string name="dialogMessage">Do you want to exit?</string>
+    <string name="powerButtonString">
+        <b>Press power button 4 times in emergency time to get help.</b>
+    </string>
+    <string name="bdPoliceContact">BD Police Contact</string>
+    <string name="switchButtonString"><b>Enable power button and app in background</b></string>
+
+</resources>

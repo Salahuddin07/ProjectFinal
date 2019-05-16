@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".RajshahiDivisionDistrict">
+
+
+    //include toolbar
+    <include
+        android:id="@+id/toolbarId"
+        layout="@layout/toolbar"
+        />
+    //end
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+        <Button
+            android:id="@+id/boguraDistrictId"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:textSize="20sp"
+            android:layout_marginTop="15dp"
+            android:text="Bogura"
+            />
+
+        <Button
+            android:id="@+id/chapainawabganjDistrictId"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="15dp"
+            android:textSize="20sp"
+            android:text="Chapainawabganj"
+            />
+
+        <Button
+            android:id="@+id/joypurhatDistrictId"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="15dp"
+            android:textSize="20sp"
+            android:text="Joypurhat"
+            />
+
+        <Button
+            android:id="@+id/naogaonDistrictId"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="15dp"
+            android:textSize="20sp"
+            android:text="Naogaon"
+            />
+
+        <Button
+            android:id="@+id/natoreDistrictId"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="15dp"
+            android:textSize="20sp"
+            android:text="Natore"
+            />
+
+        <Button
+            android:id="@+id/pabnakushtiaDistrictId"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="15dp"
+            android:textSize="20sp"
+            android:text="Pabna"
+            />
+
+        <Button
+            android:id="@+id/rajshahiDistrictId"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="15dp"
+            android:textSize="20sp"
+            android:text="Rajshahi"
+            />
+
+        <Button
+            android:id="@+id/sirajganjDistrictId"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="15dp"
+            android:textSize="20sp"
+            android:text="Sirajganj"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>
+</ScrollView>

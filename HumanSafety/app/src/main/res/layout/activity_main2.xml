@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorPrimary"
+    tools:context="com.example.salahuddin.humansafety.MainActivity2">
+
+    //include toolbar
+    <include
+        android:id="@+id/toolbarId"
+        layout="@layout/toolbar"
+        />
+    //end
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/powerButtonString"
+        android:textColor="#ffffff"
+        android:textSize="17sp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="60dp"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        >
+
+        <Switch
+            android:id="@+id/switchId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/switchButtonString"
+            android:textColor="#ffffff"
+            android:textSize="17dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            />
+
+
+
+        <Button
+            android:id="@+id/bdPoliceContactId"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="@string/bdPoliceContact"
+            android:layout_marginTop="150dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:textSize="20dp"
+            android:background="#fbf8e0"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>
+

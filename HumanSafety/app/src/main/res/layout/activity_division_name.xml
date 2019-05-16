@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".DivisionName">
+
+        //include toolbar
+        <include
+            android:id="@+id/toolbarId"
+            layout="@layout/toolbar"
+            />
+        //end
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+
+            <Button
+                android:id="@+id/dhakaDivisionId"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginLeft="15dp"
+                android:text="Dhaka"
+                android:textSize="20sp"
+                android:layout_marginTop="15dp"
+                />
+
+            <Button
+                android:id="@+id/khulnaDivisionId"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="15dp"
+                android:textSize="20sp"
+                android:text="Khulna"
+                />
+
+            <Button
+                android:id="@+id/barisaDivisionId"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="15dp"
+                android:textSize="20sp"
+                android:text="Barisal"
+                />
+
+            <Button
+                android:id="@+id/chittagongDivisionId"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="15dp"
+                android:textSize="20sp"
+                android:text="Chittagong"
+                />
+
+            <Button
+                android:id="@+id/rajshahiDivisionId"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="15dp"
+                android:textSize="20sp"
+                android:text="Rajshahi"
+                />
+
+            <Button
+                android:id="@+id/sylhetDivisionId"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="15dp"
+                android:textSize="20sp"
+                android:text="Sylhet"
+                />
+
+            <Button
+                android:id="@+id/mymensinghDivisionId"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="15dp"
+                android:textSize="20sp"
+                android:text="Mymensingh"
+                />
+            <Button
+                android:id="@+id/rangpurDivisionId"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:layout_marginRight="15dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="15dp"
+                android:textSize="20sp"
+                android:text="Rangpur"
+                />
+
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

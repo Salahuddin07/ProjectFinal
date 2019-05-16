@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.salahuddin.humansafety">
+
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.VIBRATE"/>
+
+    <supports-screens
+        android:largeScreens="true"
+        android:smallScreens="true"
+        android:normalScreens="true"
+        android:xlargeScreens="true"/>
+
+    <application
+        android:name=".App"
+        android:allowBackup="true"
+        android:fullBackupContent="true"
+        android:icon="@drawable/human_safety"
+        android:label="@string/logoString_name"
+        android:roundIcon="@drawable/human_safety"
+        android:supportsRtl="true"
+        android:theme="@style/SignupActivityTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <receiver android:name=".MyBroadCastReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.SCREEN_ON" />
+                <action android:name="android.intent.action.USER_PRESENT" />
+            </intent-filter>
+        </receiver>
+
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".SignUpActivity" />
+        <activity android:name=".Re_setPassword" />
+        <activity android:name=".MoreInfo" />
+        <activity android:name=".FeedbackActivity" />
+        <activity android:name=".About" />
+        <activity
+            android:name=".MainActivity2"
+            android:screenOrientation="portrait" />
+
+        <service
+            android:name=".ExampleService"
+            android:enabled="true"
+            android:exported="true"
+            android:process=".process" />
+
+        <activity android:name=".Help" />
+        <activity android:name=".DhakaDivisionDistrict" />
+        <activity android:name=".BarisalDivisionDistrict" />
+        <activity android:name=".KhulnaDivisionDistrict" />
+        <activity android:name=".SyletDivisionDistrict" />
+        <activity android:name=".RajshahiDivisionDistrict" />
+        <activity android:name=".RangpurDivisionDistrict" />
+        <activity android:name=".MymensinghDivisionDistrict" />
+        <activity android:name=".ChittagongDivisionDistrict" />
+        <activity android:name=".DivisionName" />
+        <activity android:name=".DhakaDistrictAllThana" />
+        <activity android:name=".KhulnaAllThanaContract" />
+        <activity android:name=".BarisalDistrictAllThana" />
+        <activity android:name=".ChittagongAllThanaContact" />
+        <activity android:name=".RajshahiAllThanaContact" />
+        <activity android:name=".SyletAllThanaContact" />
+        <activity android:name=".MymensingAllThanaContact" />
+        <activity android:name=".RangpurAllThanaContact"></activity>
+    </application>
+
+</manifest>

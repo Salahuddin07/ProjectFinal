@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".KhulnaDivisionDistrict">
+
+
+    //include toolbar
+    <include
+        android:id="@+id/toolbarId"
+        layout="@layout/toolbar"
+        />
+    //end
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+        <Button
+            android:id="@+id/bagerhatDistrictId"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:textSize="20sp"
+            android:layout_marginTop="15dp"
+            android:text="Bagerhat"
+            />
+
+        <Button
+            android:id="@+id/chuadangaDistrictId"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="15dp"
+            android:textSize="20sp"
+            android:text="Chuadanga"
+            />
+
+        <Button
+            android:id="@+id/jessoreDistrictId"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="15dp"
+            android:textSize="20sp"
+            android:text="Jessore"
+            />
+
+        <Button
+            android:id="@+id/jhenaidahDistrictId"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="15dp"
+            android:textSize="20sp"
+            android:text="Jhenaidah"
+            />
+
+        <Button
+            android:id="@+id/khulnaDistrictId"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="15dp"
+            android:textSize="20sp"
+            android:text="Khulna"
+            />
+
+        <Button
+            android:id="@+id/kushtiaDistrictId"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="15dp"
+            android:textSize="20sp"
+            android:text="Kushtia"
+            />
+
+        <Button
+            android:id="@+id/maguraDistrictId"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="15dp"
+            android:textSize="20sp"
+            android:text="Magura"
+            />
+
+        <Button
+            android:id="@+id/meherpurDistrictId"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="15dp"
+            android:textSize="20sp"
+            android:text="Meherpur"
+            />
+
+        <Button
+            android:id="@+id/narailDistrictId"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="15dp"
+            android:textSize="20sp"
+            android:text="Narail"
+            />
+
+        <Button
+            android:id="@+id/satkhiraDistrictId"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="15dp"
+            android:textSize="20sp"
+            android:text="Satkhira"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>
+</ScrollView>
